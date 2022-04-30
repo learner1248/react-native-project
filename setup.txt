@@ -1,0 +1,3 @@
+ExecutionPolicy sorunu icin calistirilmasi gereken komut:
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
